@@ -1,16 +1,13 @@
-# rando_restaurant_app
+# Random Fast Food's
 
-A new Flutter project.
+Primeiro projeto do curso de Flutter do Kilo Loco no #30DaysOfFlutter. 
 
-## Getting Started
+Neste desafío utilizei a coponentização de dois Text's e um ElevatedButton. 
 
-This project is a starting point for a Flutter application.
+## Layout App
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/83305912/193940751-a9926e1c-3d8e-4599-af12-32c91555653e.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Curso: https://www.youtube.com/playlist?list=PL5h37q2DJtAP36eI9j9yKxbZBASUMb9eZ
