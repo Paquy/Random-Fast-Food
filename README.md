@@ -2,7 +2,7 @@
 
 Primeiro projeto do curso de Flutter do Kilo Loco no #30DaysOfFlutter. 
 
-Neste desafío utilizei a coponentização de dois Text's e um ElevatedButton. 
+Neste desafío utilizei a coponentização de dois Text's e um ElevatedButton. Utilizei uma lista mocada em uma arquivo para os nomes de fast food's.
 
 ## Layout App
 
